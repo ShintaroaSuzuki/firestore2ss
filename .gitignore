@@ -1,0 +1,4 @@
+.env
+firestore2ss
+Dockerfile
+docker-compose.yml
